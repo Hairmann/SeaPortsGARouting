@@ -1,0 +1,36 @@
+﻿<Window x:Class="SeaPortsGenetic_WPF.SettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SeaPortsGenetic_WPF"
+        mc:Ignorable="d"
+        Title="Настройки" Height="300" Width="350">
+    <Grid x:Name="MainGrid" IsEnabled="True">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <!--Labels-->
+        <Label x:Name="lbl_percentMutations" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Right" Content="Процент мутаций, %:" />
+        <Label x:Name="lbl_vesselVelocity" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Right" Content="Скорость судна, узлов: " />
+        <Label x:Name="lbl_vesselLoad" Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Right" Content="Средняя загрузка судна, конт.: " />
+        <Label x:Name="lbl_vesselAdditionalTime" Grid.Row="3" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Right" Content="Время вспомогательных операций судна, ч: " />
+        <!--Text Boxes-->
+        <TextBox x:Name="txtBox_percentMutations" Grid.Row="0" Grid.Column="1" Width="75" Height="25" VerticalAlignment="Center" HorizontalAlignment="Stretch" TextAlignment="Center" />
+        <TextBox x:Name="txtBox_vesselVelocity" Grid.Row="1" Grid.Column="1" Width="75" Height="25" VerticalAlignment="Center" HorizontalAlignment="Stretch" TextAlignment="Center" />
+        <TextBox x:Name="txtBox_vesselLoad" Grid.Row="2" Grid.Column="1" Width="75" Height="25" VerticalAlignment="Center" HorizontalAlignment="Stretch" TextAlignment="Center" />
+        <TextBox x:Name="txtBox_vesselAdditionalTime" Grid.Row="3" Grid.Column="1" Width="75" Height="25" VerticalAlignment="Center" HorizontalAlignment="Stretch" TextAlignment="Center" />
+        <!--Buttons-->
+        <Button x:Name="btn_settingsOK" Grid.Row="4" Grid.Column="0" Height="25" Width="75" Content="ОК" Click="btnClicked_settingsOK" VerticalAlignment="Bottom"/>
+        <Button x:Name="btn_settingsCancel" Grid.Row="4" Grid.Column="1" Height="25" Width="75" Content="Отмена" Click="btnClicked_settingsCancel" VerticalAlignment="Bottom"/>
+    </Grid>
+</Window>
