@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SeaPortsGenetic_WPF</name>
+    </assembly>
+    <members>
+        <member name="T:SeaPortsGenetic_WPF.SettingsWindow">
+            <summary>
+            Логика взаимодействия для Window1.xaml
+            </summary>
+            <summary>
+            SettingsWindow
+            </summary>
+        </member>
+        <member name="M:SeaPortsGenetic_WPF.SettingsWindow.tryParsePercent(System.String,System.Double@)">
+            <summary>
+            Усовершенствованный метод Double.TryParse. Позволяет проходить парсинг только числам в промежутке от 0 до 100.
+            </summary>
+            <param name="toParse">Параметр типа string. Строка, которую нужно парсить.</param>
+            <param name="result">Параметр типа out double. Ссылка на существующую переменную, в которую будет записан результат парсинга строки.</param>
+        </member>
+        <member name="M:SeaPortsGenetic_WPF.SettingsWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:SeaPortsGenetic_WPF.App">
+            <summary>
+            Логика взаимодействия для App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:SeaPortsGenetic_WPF.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:SeaPortsGenetic_WPF.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:SeaPortsGenetic_WPF.MainWindow">
+            <summary>
+            Логика взаимодействия для MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:SeaPortsGenetic_WPF.MainWindow.printSolutions(SeaPortsGenetic_WPF.Solution[])">
+            <summary>
+            Метод, выводящий в лог приложения информацию о каждом решении в популяции решений. 
+            В лог выводится следующая информация:
+            \n- номер решения в популяции;
+            \n- последовательность портов в решении;
+            \n- значение фитнесс-функции решения по количеству перемещенных контейнеров;
+            \n- значение фитнесс-функции решения по расстоянию.
+            </summary>
+            <param name="solPopulation">Популяция решений, из которой решения выводятся в лог. Представлена массивом решений типа Solution[].</param>
+        </member>
+        <member name="M:SeaPortsGenetic_WPF.MainWindow.messageWorker_appendSolutions(SeaPortsGenetic_WPF.Solution[])">
+            <summary>
+            Метод для добавления к строке сообщения от воркера инфу о решениях.
+            </summary>
+            <param name="solPopulation">Популяция решений, из которой решения выводятся в лог. Представлена массивом решений типа Solution[].</param>
+        </member>
+        <member name="M:SeaPortsGenetic_WPF.MainWindow.tryParsePositiveInt(System.String,System.Int32@)">
+            Валидация ввода данных 
+            <summary>
+            Усовершенствованный метод Int32.TryParse. Позволяет проходить парсинг только целым положительным числам.
+            </summary>
+            <param name="toParse">Параметр типа string. Строка, которую нужно парсить.</param>
+            <param name="result">Параметр типа out int. Ссылка на существующую переменную, в которую будет записан результат парсинга строки.</param>
+        </member>
+        <member name="M:SeaPortsGenetic_WPF.MainWindow.tryParsePercent(System.String,System.Double@)">
+            <summary>
+            Усовершенствованный метод Double.TryParse. Позволяет проходить парсинг только числам в промежутке от 0 до 100.
+            </summary>
+            <param name="toParse">Параметр типа string. Строка, которую нужно парсить.</param>
+            <param name="result">Параметр типа out double. Ссылка на существующую переменную, в которую будет записан результат парсинга строки.</param>
+        </member>
+        <member name="M:SeaPortsGenetic_WPF.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:SeaPortsGenetic_WPF.Properties.Resources">
+            <summary>
+              Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+            </summary>
+        </member>
+        <member name="P:SeaPortsGenetic_WPF.Properties.Resources.ResourceManager">
+            <summary>
+              Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+            </summary>
+        </member>
+        <member name="P:SeaPortsGenetic_WPF.Properties.Resources.Culture">
+            <summary>
+              Перезаписывает свойство CurrentUICulture текущего потока для всех
+              обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+            </summary>
+        </member>
+        <member name="P:SeaPortsGenetic_WPF.Properties.Resources.europe_blank_map_hd">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>

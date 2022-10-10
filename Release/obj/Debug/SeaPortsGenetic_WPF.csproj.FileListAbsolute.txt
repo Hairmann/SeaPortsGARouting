@@ -1,0 +1,87 @@
+C:\Users\German\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\SeaPortsGenetic_WPF.exe.config
+C:\Users\German\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\SeaPortsGenetic_WPF.exe
+C:\Users\German\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\SeaPortsGenetic_WPF.pdb
+C:\Users\German\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.csprojResolveAssemblyReference.cache
+C:\Users\German\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\German\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\App.g.cs
+C:\Users\German\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF_MarkupCompile.cache
+C:\Users\German\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF_MarkupCompile.lref
+C:\Users\German\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\MainWindow.baml
+C:\Users\German\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.g.resources
+C:\Users\German\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.Properties.Resources.resources
+C:\Users\German\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.csproj.GenerateResource.Cache
+C:\Users\German\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.exe
+C:\Users\German\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.pdb
+C:\Users\German\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\SeaPortsGenetic_WPF.xml
+C:\Users\German\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SettingsWindow.g.cs
+C:\Users\German\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SettingsWindow.baml
+C:\Users\German\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\Images\europe-blank-map-hd.jpg
+C:\Users\German\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF_Content.g.cs
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\Images\europe-blank-map-hd.jpg
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\SeaPortsGenetic_WPF.exe.config
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\SeaPortsGenetic_WPF.xml
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\SeaPortsGenetic_WPF.exe
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\SeaPortsGenetic_WPF.pdb
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.csprojAssemblyReference.cache
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SettingsWindow.g.cs
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\App.g.cs
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF_Content.g.cs
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF_MarkupCompile.cache
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF_MarkupCompile.lref
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\MainWindow.baml
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SettingsWindow.baml
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.g.resources
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.Properties.Resources.resources
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.csproj.GenerateResource.cache
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.exe
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.pdb
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\CsvHelper.dll
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\System.Buffers.dll
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\System.Memory.dll
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\System.ValueTuple.dll
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\CsvHelper.xml
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\System.Buffers.xml
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\System.Memory.xml
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\System.ValueTuple.xml
+C:\Users\Герман Попов\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.csproj.CopyComplete
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\Images\europe-blank-map-hd.jpg
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\SeaPortsGenetic_WPF.exe.config
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\SeaPortsGenetic_WPF.xml
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\SeaPortsGenetic_WPF.exe
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\SeaPortsGenetic_WPF.pdb
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\CsvHelper.dll
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\System.Buffers.dll
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\System.Memory.dll
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\System.ValueTuple.dll
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\CsvHelper.xml
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\System.Buffers.xml
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\System.Memory.xml
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\bin\Debug\System.ValueTuple.xml
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.csproj.AssemblyReference.cache
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SettingsWindow.g.cs
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\App.g.cs
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF_Content.g.cs
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF_MarkupCompile.cache
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF_MarkupCompile.lref
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\MainWindow.baml
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SettingsWindow.baml
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.g.resources
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.Properties.Resources.resources
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.csproj.GenerateResource.cache
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.csproj.CoreCompileInputs.cache
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.csproj.CopyComplete
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.exe
+C:\Users\German Popov\source\repos\SeaPortsGenetic_WPF\SeaPortsGenetic_WPF\obj\Debug\SeaPortsGenetic_WPF.pdb
